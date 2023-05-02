@@ -1,6 +1,8 @@
 # Parcellation
 Parcellation of the cerebellum based on NeuroSynth database
 
+PS: Due to the length of database files, only a cvs file is available of the validated CE database
+
 Files related to the distinct step in the analysis
 
 
